@@ -1,5 +1,5 @@
 def initialiser():
 """Initialise le système."""
-print("Démarrage du système...")
+print("MOde Rapide activé...")
 if __name__ == "__main__":
 initialiser()
